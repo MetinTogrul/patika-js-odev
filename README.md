@@ -1,0 +1,2 @@
+# patika-js-odev
+Ödev
